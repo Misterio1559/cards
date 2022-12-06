@@ -1,1 +1,1 @@
-print('Logick. Время большого мозга')
+print('Logick. Время большого мозгаfgdfg')
